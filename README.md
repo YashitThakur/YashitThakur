@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YashitThakur
 - 👀 I’m interested in web <em>dev</em>, game <em>dev</em> and any other <em>dev</em> in general
-- 🌱 I’m currently learning Cypress, React, NodeJS
+- 🌱 I’m currently learning React, NodeJS, Cypress, SQL, Express
 - 💞️ I’m looking to collaborate on anything you can send my way
 - 📫 How to reach me - yashit.thakur@swymcorp.com
 
